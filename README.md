@@ -33,19 +33,23 @@ import pandas as pd
 
 Paso 3: Llamar al conjunto de datos y generar un panel de control con Power BI
 
-```
+``` pyhton
 PBI_visualize = QuickVisualize(get_dataset_config(df), auth=device_auth)
 
 # Render the new report
 PBI_visualize
 ```
-![video](img/road.mov)
+![video](img/road.mp4)
 
 # Mostrar el nuevo informe
 
 Con estos pasos, obtendrás un panel de control interactivo en el que podrás elegir el tipo de gráfico, los datos que deseas visualizar, la cantidad de datos y la forma de presentarlos. En resumen, esta herramienta te proporciona una visión rápida de tus datos y te ayuda a identificar áreas clave en las que puedes enfocarte.
 
 Aprovecha las herramientas de Business Intelligence para obtener información valiosa de tus datos y tomar decisiones informadas. Con este código en Jupyter Notebook y Power BI, podrás visualizar y analizar tus datos de manera efectiva, optimizando así tu trabajo y resultados.
+
+|      |
+|------|
+| ![Foto 4](img/4.png)
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, ¡estás más que bienvenido! Puedes enviar tus sugerencias, mejoras o correcciones a través de solicitudes de extracción. Juntos, podemos hacer de este repositorio un recurso aún más valioso para la comunidad.
