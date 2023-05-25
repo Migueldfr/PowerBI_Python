@@ -39,10 +39,7 @@ PBI_visualize = QuickVisualize(get_dataset_config(df), auth=device_auth)
 # Render the new report
 PBI_visualize
 ```
-<video controls>
-  <source src="img/road.mp4" type="img/mp4">
-  Tu navegador no admite la reproducción de videos.
-</video>
+![video](img/road.mp4)
 
 # Mostrar el nuevo informe
 
