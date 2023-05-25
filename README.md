@@ -11,7 +11,7 @@ El proceso es tan simple como rapido, y lo primero de todo, tenemos que crearnos
 
 Lo mas importante, es guardar tu nombre de usuario y contraseña(obviamente), porque lo vamos a utilizar seguidamente.
 
-![Foto]('img/1.jpg')
+![Foto](img/1.png)
 
 ## Como crear un reporte en Jupyter Notebook
 
